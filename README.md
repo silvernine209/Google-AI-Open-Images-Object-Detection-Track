@@ -1,3 +1,4 @@
+## Refer to "Capstone Project Proposal.ipynb" or "proposal.pdf" for details
 
 ## Training and Validation Set
 
