@@ -1,5 +1,3 @@
-**Refer to "Capstone Project Proposal.ipynb" or "proposal.pdf" for details**
-
 ## [Data Preparation] Train/Validation/Test Image and Annotation Dataset
 
 **Dataset Download :** [[Link1]](https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/) [[Link2]](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) 
