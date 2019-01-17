@@ -25,17 +25,13 @@ There were total of 500 classes of objects which were thoroughly annotated in th
 * YoloV3
 * etc. 
 
-
-## Project Intro/Objective
-Goal of the competition was to build an algorithm that detects objects using 1.7 million image dataset.
-There were total of 500 classes of objects which were thoroughly annotated in the given dataset.
 ### TechnologiesObtaining Dataset
-**Dataset Download :** [[Link1]](https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/) [[Link2]](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations)  
-**Insights and Explanation on Dataset :** [Open Images Dataset v4](https://storage.googleapis.com/openimages/web/index.html)
+* **Dataset Download :** [[Link1]](https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/) [[Link2]](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations)  
+* **Insights and Explanation on Dataset :** [Open Images Dataset v4](https://storage.googleapis.com/openimages/web/index.html)
 
 ### Configuring Darknet Training Environment
-**Original Darknet Architecture Developer :** [Joseph Redmon](https://pjreddie.com/)  
-**Use This Link For Darknet Installation (More User Friendly) :** [AlexeyAB's Repository](https://github.com/AlexeyAB/darknet) - This is where you will find all of information about Darknet installation, commands to train & validate & test, and troubleshooting.
+* **Original Darknet Architecture Developer :** [Joseph Redmon](https://pjreddie.com/)  
+* **Use This Link For Darknet Installation (More User Friendly) :** [AlexeyAB's Repository](https://github.com/AlexeyAB/darknet) - This is where you will find all of information about Darknet installation, commands to train & validate & test, and troubleshooting.
 
 ### Jupyter Notebooks Used
 **Data Preparation for Darknet Training.ipynb :** Processes annotation files (.csv) provided by Kaggle competition to be used for Darknet training.  
