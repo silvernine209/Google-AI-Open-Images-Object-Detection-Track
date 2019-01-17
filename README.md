@@ -44,7 +44,7 @@ There were total of 500 classes of objects which were thoroughly annotated in th
 * image.c : I made a modification in image.c from AlexeyAB's repository to have Darknet output predictions in the format Kaggle competition will take. Therefore, use this file instead of original image.c from the repo.
 
 
-## Featured Notebooks/Analysis/Deliverables
+### Featured Notebooks/Analysis/Deliverables
 * [Project Proposal](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/proposal.pdf)
 * [Exploratory Data Analysis on Training Dataset](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Train%20Data%20Analysis%20%26%20Fix%20Data%20Imbalance.ipynb)
 * [Data Preparation for Darknet Training](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Data%20Preparation%20for%20Darknet%20Training.ipynb)
