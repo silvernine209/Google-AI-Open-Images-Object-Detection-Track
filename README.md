@@ -26,7 +26,6 @@ There were total of 500 classes of objects which were thoroughly annotated in th
 * etc. 
 
 ### Obtaining Dataset
-
 **Dataset Download :** [[Link1]](https://www.figure-eight.com/dataset/open-images-annotated-with-bounding-boxes/) [[Link2]](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) 
 
 **Insights and Explanation on Dataset :** [Open Images Dataset v4](https://storage.googleapis.com/openimages/web/index.html)
