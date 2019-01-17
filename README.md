@@ -1,5 +1,5 @@
 # Google AI Open Images - Object Detection Track
-This repository captures my efforts to compete in the Kaggle competition:[Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track) by training a CNN.
+This repository captures my efforts to compete in the Kaggle competition:[Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track) by training a CNN. I finished the competition as Silvernine in [100th place](https://www.kaggle.com/c/google-ai-open-images-object-detection-track/leaderboard)
 
 #### -- Project Status: [Completed]
 
