@@ -1,11 +1,11 @@
 # Google AI Open Images - Object Detection Track
-This project contains from project proposal to completing the project to place 100th place in this [Kaggle competition](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
+This repository captures my efforts to compete in the Kaggle competition:[Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track) by training a CNN.
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to build an algorithm that detects objects using 1.7 million dataset.
-There are total of 500 classes of objects and 1.7 million dataset comes with annotations of bounding boxes.
+Goal of the competition was to build an algorithm that detects objects using 1.7 million image dataset.
+There were total of 500 classes of objects which were thoroughly annotated in the given dataset.
 
 ### Partner
 * [Kaggle](https://www.kaggle.com/c/google-ai-open-images-object-detection-track)
@@ -13,8 +13,8 @@ There are total of 500 classes of objects and 1.7 million dataset comes with ann
 
 ### Methods Used
 * Convolutional Neural Network (CNN)
-* [Data Visualization](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Train%20Data%20Analysis%20%26%20Fix%20Data%20Imbalance.ipynb)
-* [Data Pre-Processing](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Data%20Preparation%20for%20Darknet%20Training.ipynb)
+* Data Visualization
+* Data Pre-Processing
 * etc.
 
 ### Technologies
@@ -57,3 +57,4 @@ There are total of 500 classes of objects and 1.7 million dataset comes with ann
 * [Exploratory Data Analysis on Training Dataset](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Train%20Data%20Analysis%20%26%20Fix%20Data%20Imbalance.ipynb)
 * [Data Preparation for Darknet Training](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Jupyter%20Notebooks/Data%20Preparation%20for%20Darknet%20Training.ipynb)
 * [Project Final Report](https://github.com/silvernine209/Google-AI-Open-Images-Object-Detection-Track/blob/master/Project%20Final%20Report.pdf)
+
